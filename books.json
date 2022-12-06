@@ -1,0 +1,1 @@
+[{"id": 1, "title": "Harry Potter", "year": 1996, "author": "Джоан Роулинг"}, {"id": 2, "title": "Король Артур", "year": 1485, "author": "Томас Мэлори"}, {"id": 3, "title": "Робинзон Крузо", "year": 1719, "author": "Даниэль Дефо"}, {"title": "book_title", "author": "book_author", "year": "book_year", "id": 4}]
